@@ -1,0 +1,4 @@
+#Multiplication Table
+Number=int("Enter the number: ")
+for i in Range(1,11)
+print(Number+" * "i+"="Number*i)
